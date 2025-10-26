@@ -1,4 +1,4 @@
-# Sprint-Review-and-Retrospective
+# README
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this? 
 
 To interpret user needs, I start by trying to understand what problems the user actually wants solved instead of just jumping straight into coding and development. Creating user stories helps break big ideas into small, realistic goals that directly connect back to what the user values most. It gives me a clear direction for what to build and how the finished product should look when it's finished. It also keeps development user-centered instead of just focusing on the finish line. 
